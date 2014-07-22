@@ -1,0 +1,1 @@
+https://jakearchibald.github.io/isserviceworkerready/
